@@ -1,5 +1,8 @@
 ---
 title: "(Fun?) Facts"
+author: "Bige Ozkan"
+date: "9/8/2021"
+output: html_document
 ---
 
 * My favorite sport is skiing, which is sad, because in Turkey the ski season lasts at most 3 months. 
