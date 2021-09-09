@@ -1,0 +1,40 @@
+---
+title: "Who are you"
+author: "Bige Ozkan"
+date: "9/8/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Personal
+
+I am an only-child who always wanted to have siblings. I still feel grateful to my parents for letting me adopt a parakeet, a turtle, and finally a dog. (this could have been a "fun fact")
+
+![Pamuk when she was a baby](/Users/bigeozkan/Documents/GitHub/biostat776-intro-bige-ozkan/biostat776-intro-bige-ozkan/pamuk_baby.jpg)
+![14 year-old Pamuk chilling under the sun](/Users/bigeozkan/Documents/GitHub/biostat776-intro-bige-ozkan/biostat776-intro-bige-ozkan/pamuk_14.jpg)
+
+
+# Academic
+
+## Before
+
+I went to medical school in Istanbul, Turkey, and graduated last year (in 2020).  
+
+## Now
+
+I am a second year Master of Science student in Epidemiology, Clinical and Cardiovascular Track. My main research interests are cardiovascular diseases and risk factors (particularly that of heart failure) and use of cardiac biomarkers for risk stratification.
+
+## Future
+
+I am planning to pursue further clinical training in Internal Medicine and Cardiology. 
+
+# Statistics/Data analysis experience
+
+I have been using Stata for my research projects and conducted the statistical analyses on my own, but I have always been very jealous of the online support system of the R community.  
+
+## "Why this course" & My expectations
+
+Because of my friends who mainly use R, I started to understand and appreciate R's principle of open-source, reproducible research. Since I want to become a physician-scientist, keeping up with the most useful and powerful programs is essential. I want to be able to write and edit my own code in R, in an organized fashion. I am also very interested in data visualization and I am looking forward to learning more about ggplots!
+
+

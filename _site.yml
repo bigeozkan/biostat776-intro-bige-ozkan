@@ -1,0 +1,14 @@
+
+---
+title: "Linked brushing"
+output: html_document
+---
+
+name: "Biges-repository"
+navbar: 
+  title: "Bige's repository"
+  left: 
+   - text: "Home"
+    href: index.html
+   - test: "About"
+    href: about.html

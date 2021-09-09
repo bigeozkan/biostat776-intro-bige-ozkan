@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+author: "Bige Ozkan"
+date: "9/8/2021"
+output: html_document
+---
+
+This is the repository for Project 0 of Biostat 776 (2021-2022 academic year)
